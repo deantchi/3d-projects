@@ -1,7 +1,7 @@
 // RAM-style Quick Release Joint - Draft Concept
 // Not safety-certified. Prototype only.
 
-$fn=96;
+$fn=36;
 
 // Ball/socket sizing (B-size style default)
 ball_d = 25.4;            // 1.0 in
